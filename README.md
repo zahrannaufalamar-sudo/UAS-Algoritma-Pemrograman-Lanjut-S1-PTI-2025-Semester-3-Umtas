@@ -41,6 +41,7 @@ Program ini dirancang agar:
 
 ## Cara Compile & Menjalankan Program (Code::Blocks)
 
+
 1. Buka aplikasi **Code::Blocks**
 2. Pilih menu **File → New → Project → Console Application**
 3. Pilih bahasa **C**, lalu klik **Next**
@@ -54,7 +55,7 @@ Program ini dirancang agar:
 ## Screenshot Hasil Program
 
 ### Tampilan Menu Utama
-![Menu Utama](Input Data (Uas Alpro) 1.jpeg)
+![Input Data (Uas Alpro) 1](https://github.com/user-attachments/assets/7c8fe310-3a0c-4c51-98d8-0f37bcc14ed9)
 
 ### Tampilan Input Data Mahasiswa
 ![Input Data](Input Data (Uas Alpro) 1.jpeg)
