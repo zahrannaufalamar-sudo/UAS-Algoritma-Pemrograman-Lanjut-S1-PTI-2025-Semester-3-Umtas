@@ -97,9 +97,9 @@ Program ini dirancang agar:
 ---
 
 ## Penulis
-Nama  : Zahran Naufal Amar 
-Nim  : C2483207012
-Prodi  : S1 Pendidikan Teknologi Informasi
+Nama  : Zahran Naufal Amar   
+Nim  : C2483207012  
+Prodi  : S1 Pendidikan Teknologi Informasi  
 Bahasa Pemrograman : C  
 Aplikasi : Code::Blocks  
 Topik : Pengolahan Data Nilai Mahasiswa
