@@ -70,11 +70,11 @@ Program ini dirancang agar:
 ### Tampilan Data
 ![Tampil Data (Uas Alpro)](https://github.com/user-attachments/assets/6e717b58-45d9-454c-ab31-a83b95230827)
 
-### Tambah Data
+### Tampilan Tambah Data
 ![Tambah Data (Uas Alpro)](https://github.com/user-attachments/assets/c083f9f6-a897-49c3-8515-51640f57a20b)
 ![Output Tambah Data (Uas Alpro)](https://github.com/user-attachments/assets/c395919c-246f-4a3c-b454-22e1a30623a2)
 
-### Ubah Nilai Mahasiswa
+### Tampilan Ubah Nilai Mahasiswa
 ![Ubah Nilai Mahasiswa (Uas Alpro)](https://github.com/user-attachments/assets/500a75eb-2822-443b-ad85-07eef14406e9)
 ![Output Ubah NIlai (Uas Alpro)](https://github.com/user-attachments/assets/c1587ffa-66bf-413d-95f9-1b342917f24b)
 
