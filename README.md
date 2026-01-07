@@ -61,10 +61,11 @@ Program ini dirancang agar:
 ![Menu Program (Uas Alpro)](https://github.com/user-attachments/assets/dfe4fd32-15f6-4e2b-b3e1-16a1a1fa1188)
 
 ### Tampilan Input Data Mahasiswa
-![Input Data](Input Data (Uas Alpro) 1.jpeg)
-![Input Data](Input Data (Uas Alpro) 2.jpeg)
-![Input Data](Input Data (Uas Alpro) 3.jpeg)
-![Input Data](Input Data (Uas Alpro) 4.jpeg)
+![Input Data (Uas Alpro) 1](https://github.com/user-attachments/assets/75e914de-e07b-4aff-9b89-e35ed9cc7a8e)
+![Input Data (Uas Alpro) 2](https://github.com/user-attachments/assets/2e407026-c74d-4024-8ff6-18186e6e309e)
+![Input Data (Uas Alpro) 3](https://github.com/user-attachments/assets/721573e9-67e3-4f1e-9969-14978b64f587)
+![Input Data (Uas Alpro) 4](https://github.com/user-attachments/assets/2742ef8d-90a1-4659-9ba8-52cb7a03ca57)
+
 
 ### Tampilan Data
 ![Tampil Data (Uas Alpro)](https://github.com/user-attachments/assets/6e717b58-45d9-454c-ab31-a83b95230827)
@@ -96,7 +97,9 @@ Program ini dirancang agar:
 ---
 
 ## Penulis
-Nama  : Zahran Naufal Amar  
+Nama  : Zahran Naufal Amar 
+Nim   : C2483207012
+Prodi : S1 Pendidikan Teknologi Informasi
 Bahasa Pemrograman : C  
 Aplikasi : Code::Blocks  
 Topik : Pengolahan Data Nilai Mahasiswa
