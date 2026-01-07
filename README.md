@@ -54,10 +54,13 @@ Program ini dirancang agar:
 ## Screenshot Hasil Program
 
 ### Tampilan Menu Utama
-![Menu Utama](screenshot_menu.png)
+![Menu Utama](Input Data (Uas Alpro) 1.jpeg)
 
 ### Tampilan Input Data Mahasiswa
-![Input Data](screenshot_input.png)
+![Input Data](Input Data (Uas Alpro) 1.jpeg)
+![Input Data](Input Data (Uas Alpro) 2.jpeg)
+![Input Data](Input Data (Uas Alpro) 3.jpeg)
+![Input Data](Input Data (Uas Alpro) 4.jpeg)
 
 ### Tampilan Pengolahan Nilai
 ![Pengolahan Nilai](screenshot_pengolahan.png)
